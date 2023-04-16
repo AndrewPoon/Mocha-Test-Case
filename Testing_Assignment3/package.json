@@ -1,0 +1,18 @@
+{
+  "name": "testing_assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "purchaseOrder-updated-for-3-F22..js",
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.1.0",
+    "sinon": "^15.0.0"
+  },
+  "devDependencies": {
+    "nyc": "^15.1.0"
+  }
+}
